@@ -1,0 +1,7 @@
+{
+  "name": "bundler",
+  "main": "index.js",
+  "scripts": {
+    "bundle": "node index.js"
+  }
+}
