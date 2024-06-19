@@ -1,7 +1,7 @@
 {
   "format_version": 1,
   "header": {
-    "description": "§⭕§7This addon allows you create custom scoreboards for all players by simply using the commands §l/title§r §7or §l/titleraw§r§7.\n\n§dExample Commands:§r\n§7/title @a title Hello World!\n/title @a title Welcome to my World!\n\n§7Made By: §5PMK744#5874§7 & §5Nobu#1122",
+    "description": "§⭕§7This addon allows you create custom scoreboards for all players by simply using the commands §l/title§r §7or §l/titleraw§r§7.\n\n§dExample Commands:§r\n§7/title @a title Hello World!\n/title @a title Welcome to my World!\n\n§7Made By: §5pmk744§7 & §5nobu.sh§7 §9(Discord)§7",
     "name": "§⭕§l§5ActionBoard v1.7",
     "uuid": "a834dbd6-39bd-11eb-adc1-0242ac120002",
     "version": [1, 0, 0],
@@ -11,7 +11,7 @@
     {
       "version": [0, 0, 1],
       "type": "resources",
-      "description": "§7MadeBy:§dPMK744#5874§7&§dNobu#1122",
+      "description": "§7MadeBy:§dpmk744§7&§dnobu.sh§9(Discord)§7",
       "uuid": "a834de74-39bd-11eb-adc1-0242ac120002"
     }
   ],
